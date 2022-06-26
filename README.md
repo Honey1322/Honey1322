@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valay
+- 👋 Hi, I’m Valentina
 - 👀 I’m interested in programming, sports, science, in my free time I like to walk and learn new things
 - 🌱 I’m currently learning information technology and programming
 - 💞️ I’m looking to collaborate on with smart and interesting peoples
