@@ -1,7 +1,7 @@
 Valentine
 3rd year student
 Information systems specialist
-I am programming in C#; site building using: HTML, CSS, JS, PHP; work with databases;
+I am programming in C#; site build using: HTML, CSS, JS, PHP; work with databases;
 For communication:
 www.valentina_it22@mail.ru
 <!---
