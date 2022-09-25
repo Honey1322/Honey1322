@@ -1,4 +1,7 @@
-Valentine
+
+
+
+Valentina
 3rd year student
 Information systems specialist
 I am programming in C#; I'm site create using: HTML, CSS, JS, PHP; work with databases;
