@@ -23,11 +23,11 @@ OS:
 
 For communication:
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)- v13l22 
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)- @v13l22
 
 ![Mail](https://img.shields.io/badge/Mail-2CA5E0?style=for-the-badge&logo=mail&logoColor=white)-  www.valentina_it22@mail.ru 
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)- valya0381
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)- @valya0381
 <!---
 Honey1322/Honey1322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
