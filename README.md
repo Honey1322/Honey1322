@@ -1,7 +1,7 @@
 
 
 
-Valentina Kusurina 
+Valentina Kushurina 
 web-developer
 
 Framework: 
