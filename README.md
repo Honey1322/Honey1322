@@ -23,7 +23,6 @@ OS:
 
 For communication:
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)- @v13l22
 
 ![Mail](https://img.shields.io/badge/Mail-2CA5E0?style=for-the-badge&logo=mail&logoColor=white)-  www.valentina_it22@mail.ru 
 
